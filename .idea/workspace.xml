@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1326fac6-6855-40a6-9535-c285d4c59299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversion.fprg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp-convert.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -61,11 +57,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579041782624</updated>
-      <workItem from="1579041783984" duration="368000" />
+      <workItem from="1579041783984" duration="706000" />
     </task>
+    <task id="LOCAL-00001" summary="Created IntelliJ project.">
+      <created>1579042428340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579042428340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created IntelliJ project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created IntelliJ project." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1579042427433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579042427433" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1579042486895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579042486895" />
   </component>
 </project>
