@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="mabby"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-01-14 02:41:50 PM"/>
+        <attribute name="created" value="bWFiYnk7QUJCWVM7MjAyMC0wMS0xNDswMTo1NzoyNSBQTTsyMTY2"/>
+        <attribute name="edited" value="bWFiYnk7QUJCWVM7MjAyMC0wMS0xNDswMjo0MTo1MCBQTTsyOzIyNjc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Please enter a temperature in degrees Celsius.&quot;" newline="True"/>
+            <declare name="degreesCelsius" type="Real" array="False" size=""/>
+            <input variable="degreesCelsius"/>
+            <output expression="&quot;Temperature in degrees Fahrenheit = &quot;" newline="False"/>
+            <output expression="convertC2F(degreesCelsius)" newline="True"/>
+        </body>
+    </function>
+    <function name="convertC2F" type="Real" variable="degreesFahrenheit">
+        <parameters>
+            <parameter name="degreesCelsius" type="Real" array="False"/>
+        </parameters>
+        <body>
+            <declare name="degreesFahrenheit" type="Real" array="False" size=""/>
+            <assign variable="degreesFahrenheit" expression="9 * degreesCelsius / 5 + 32"/>
+        </body>
+    </function>
+</flowgorithm>
